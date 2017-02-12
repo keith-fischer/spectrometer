@@ -1,0 +1,14 @@
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Theremino_Spectrometer\Theremino_Spectrometer.exe
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Theremino_Spectrometer\Theremino_Spectrometer.pdb
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbprojResolveAssemblyReference.cache
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.dlgCorners.resources
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.DropdownColorBlender.resources
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.MyButton.resources
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_Main.resources
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_About.resources
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.Form_VideoInControls.resources
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.vbproj.GenerateResource.Cache
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.exe
+C:\Users\kf\Downloads\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.pdb
+C:\Users\kf\Dropbox\Projects\git\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.exe
+C:\Users\kf\Dropbox\Projects\git\Theremino_Spectrometer_V2.3_WithSources\Sources\obj\x86\Debug\Theremino_Spectrometer.pdb

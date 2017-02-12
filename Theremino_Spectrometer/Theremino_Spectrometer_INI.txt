@@ -1,0 +1,46 @@
+ Program Params
+===========================================
+ Program Params
+===========================================
+FormMain_Top=          308
+FormMain_Left=         513
+FormMain_Width=        608
+FormMain_Height=       485
+FormMain_WindowState=  0
+Form_VideoInControls_Top=34
+Form_VideoInControls_Left=681
+Form_VideoInControls_VisibleAtStart=False
+
+===========================================
+Language=              ENG
+
+ Output file
+===========================================
+FilePath=              
+FileName=              0
+FileFormat=            JPG
+JpegQuality=           100
+
+ Video Input Params
+===========================================
+VideoInDevice=         
+VideoFormat=           RGB42
+VideoSize=             320 x 240
+VideoFPS=              30
+
+ Params
+===========================================
+Flip=                  False
+StartX=                0
+EndX=                  1000
+StartY=                30
+SizeY=                 40
+Dips=                  False
+Peaks=                 True
+Colors=                True
+Filter=                30
+Speed=                 30
+MinNm=                 270
+MaxNm=                 1200
+TrimPoint1=            436
+TrimPoint2=            546
